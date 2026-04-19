@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:whatsappchatapp/%20models/contact.dart' show Contact;
 import '../../../core/theme/app_theme.dart';
 import '../../../models/contact.dart';
 

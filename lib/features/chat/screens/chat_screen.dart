@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:whatsappchatapp/%20models/contact.dart';
+import 'package:whatsappchatapp/%20models/message.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../core/utils/time_formatter.dart';
 import '../../../data/chat_data.dart';
