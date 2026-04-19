@@ -10,6 +10,9 @@ class ChatApp extends StatelessWidget {
     return MaterialApp(
       title: 'ChatApp',
       debugShowCheckedModeBanner: false,
+      theme: AppTheme.light(),
+      darkTheme: AppTheme.dark(),
+      themeMode: ThemeMode.system,
       home: const ContactsScreen(),
     );
   }
